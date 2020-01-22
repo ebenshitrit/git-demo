@@ -2,6 +2,6 @@
 
 This is the first file in the repo.
 
-Learn the key concepts and basic workflow for Git and GitHub with this easy to follow, top rated, bootcamp-style course!
+##Website Contents
 
-Git Going Fast: One Hour Git Crash Course
+1. index.html
